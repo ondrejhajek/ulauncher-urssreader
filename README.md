@@ -1,6 +1,8 @@
-<h1 align="center">uRSSReader</h1>
+<p align="center">
+  <img src="images/demo.gif" alt="Icon" />
+</p>
 
-----------
+<h1 align="center">uRSSReader</h1>
 
 Extension for [ULauncher](https://ulauncher.io/) - application launcher for Linux
 
