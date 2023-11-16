@@ -1,0 +1,89 @@
+{
+  "required_api_version": "^2.0.0",
+  "name": "uRSSReader",
+  "description": "Browse up to five rss channels",
+  "developer_name": "Ondrej Hajek",
+  "icon": "images/icon.png",
+  "options": {
+    "query_debounce": 0.05
+  },
+  "preferences": [
+    {
+      "id": "urssreader_keyword",
+      "type": "keyword",
+      "name": "uRSSReader",
+      "default_value": "rss"
+    },
+    {
+      "id": "rss1_title",
+      "type": "input",
+      "name": "RSS 1 title",
+      "description": "",
+      "default_value": ""
+    },
+    {
+      "id": "rss1_url",
+      "type": "input",
+      "name": "RSS 1 url",
+      "description": "",
+      "default_value": ""
+    },
+    {
+      "id": "rss2_title",
+      "type": "input",
+      "name": "RSS 2 title",
+      "description": "",
+      "default_value": ""
+    },
+    {
+      "id": "rss2_url",
+      "type": "input",
+      "name": "RSS 2 url",
+      "description": "",
+      "default_value": ""
+    },
+    {
+      "id": "rss3_title",
+      "type": "input",
+      "name": "RSS 3 title",
+      "description": "",
+      "default_value": ""
+    },
+    {
+      "id": "rss3_url",
+      "type": "input",
+      "name": "RSS 3 url",
+      "description": "",
+      "default_value": ""
+    },
+    {
+      "id": "rss4_title",
+      "type": "input",
+      "name": "RSS 4 title",
+      "description": "",
+      "default_value": ""
+    },
+    {
+      "id": "rss4_url",
+      "type": "input",
+      "name": "RSS 4 url",
+      "description": "",
+      "default_value": ""
+    },
+    {
+      "id": "rss5_title",
+      "type": "input",
+      "name": "RSS 5 title",
+      "description": "",
+      "default_value": ""
+    },
+    {
+      "id": "rss5_url",
+      "type": "input",
+      "name": "RSS 5 url",
+      "description": "",
+      "default_value": ""
+    }
+
+  ]
+}
