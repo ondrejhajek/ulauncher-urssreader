@@ -1,7 +1,7 @@
 {
   "required_api_version": "^2.0.0",
   "name": "uRSSReader",
-  "description": "Browse up to five rss channels",
+  "description": "Browse up to five rss feeds",
   "developer_name": "Ondrej Hajek",
   "icon": "images/icon.png",
   "options": {

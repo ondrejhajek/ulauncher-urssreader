@@ -6,7 +6,7 @@
 
 Extension for [ULauncher](https://ulauncher.io/) - application launcher for Linux
 
-### Browse up to five RSS channels
+### Browse up to five RSS feeds
 
 ## Dependencies
 
@@ -16,5 +16,5 @@ This extension needs `feedparser` python module, install it with pip3
 
 ## Instruction
 
-1. In uRSSReader extension setting insert up to five RSS channels
+1. In uRSSReader extension setting insert up to five RSS feeds
 2. Enjoy!
