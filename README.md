@@ -1,4 +1,8 @@
 <p align="center">
+  <img style="width: 100px" src="images/icon.png" alt="Icon" />
+</p>
+
+<p align="center">
   <img src="images/demo.gif" alt="Icon" />
 </p>
 
